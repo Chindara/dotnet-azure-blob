@@ -1,0 +1,6 @@
+@NetAzureBlob_HostAddress = http://localhost:5187
+
+GET {{NetAzureBlob_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
